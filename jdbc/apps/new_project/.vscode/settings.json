@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\A530566\\OneDrive - H & M HENNES & MAURITZ GBC AB\\Repos\\jdbc\\externaljarfiles\\mysql-connector-java-8.0.25.jar"
+  ]
+}
